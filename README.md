@@ -28,10 +28,9 @@ Welcome to my GitHub profile!
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rbpi&theme=dark&hide_border=true"/>
 </p>
 
-
 ## 🏆 GitHub Trophies
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=rbpi&theme=onedark)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=rbpi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
